@@ -13,3 +13,6 @@ Make an ImGui cheat menu tutorial [video](https://www.youtube.com/watch?v=Nrta_J
 
 ## 🗿 Disclaimer
 I am not responsible for anything that happens when you use this software. Cheers.
+
+## my note 
+just a repo for me to know where i can find this and to learn from
